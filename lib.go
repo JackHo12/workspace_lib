@@ -5,5 +5,5 @@ func AddNums(a, b int) int {
 }
 
 func SubNums(a, b int) int {
-    return a - b
+	return a - b
 }

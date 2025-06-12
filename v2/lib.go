@@ -14,6 +14,7 @@ func AddNums[T Number](a, b T) T {
 	return a + b
 }
 
+// SinNums subtracts two numbers of a type that satisfies the Number constraint.
 func SubNums[T Number](a, b T) T {
 	return a - b
 }
